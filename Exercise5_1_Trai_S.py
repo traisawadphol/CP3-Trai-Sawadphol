@@ -1,0 +1,6 @@
+no1 = int(input("Please input first numeral : "))
+no2 = int(input("Please input second numeral : "))
+print(no1,"+",no2,"=",no1+no2)
+print(no1,"-",no2,"=",no1-no2)
+print(no1,"*",no2,"=",no1*no2)
+print(no1,"/",no2,"=",int(no1/no2))
